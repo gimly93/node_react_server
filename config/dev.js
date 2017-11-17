@@ -4,6 +4,7 @@ module.exports = {
     mongoURI: 'mongodb://anton:Arsenal1!!@ds157325.mlab.com:57325/test_dev',
     cookieKey: '423k4jlfvdsfr',
     stripePublishableKey: 'pk_test_JISkzd3rFRdQF7tkjNuodVIF',
-    stripeSecretKey: 'sk_test_jfGWMh5F3VWcO1sxkJCKo3Ah'
+    stripeSecretKey: 'sk_test_jfGWMh5F3VWcO1sxkJCKo3Ah',
+    sendGridKey: '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'
 
 };
